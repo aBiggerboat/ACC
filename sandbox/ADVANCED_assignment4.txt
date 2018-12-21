@@ -1,0 +1,24 @@
+Q: 
+Which versions of Firefox and the Android browser support a method of converting JavaScript objects to JSON strings and JSON back to objects using JSON.stringify() and JSON.parse()?
+
+A:
+Firefox: 3.5-62,63,64-65
+Android: 2.1-4.4.4,67
+
+Q:
+Which versions of Internet Explorer support CSS Gradients?
+
+A:
+10,11
+
+Q:
+Which 4 browsers only have partial support for HTML5 form validation techniques that do not require Javascript code to implement?
+
+A:
+Safari, Android, Blackberry, IE Mobile
+
+Q:
+What are the listed known issues of using HTML5 Canvas?
+
+A:
+0

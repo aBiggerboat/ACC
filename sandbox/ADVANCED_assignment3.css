@@ -1,0 +1,57 @@
+html,
+body {
+    margin: 0 auto;
+}
+
+div {
+    background-color: rgb(240, 240, 240);
+    background-color: rgba(240, 240, 240, 0.8);
+    border-radius: 4px;
+    margin: 20px 20px;
+    position: relative;
+    width: 50%;
+}
+
+div input {
+    display: block;
+    margin: 10px 5px 10px 5px;
+    padding: 10px 10px;
+}
+
+footer {
+    margin: 0 20px;
+}
+
+input[type="button"] {
+    display: inline-block;
+    margin: 10px 5px 10px 5px;
+    padding: 10px 10px;
+}
+
+input[type="radio"] {
+    display: inline-block;
+    margin: 10px 5px 10px 5px;
+    padding: 10px 10px;
+}
+
+input[type="radio"]:checked + label {
+    font-weight: bold;
+}
+
+input[type="text"]:disabled {
+    background-color: red;
+}
+
+input[type="text"]:enabled {
+    background-color: green;
+}
+
+textarea {
+    display: block;
+    margin: 10px 5px 10px 5px;
+    padding: 10px 10px;
+}
+
+input:checked {
+    font-weight: bold;
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBRARY>
+  <MOVIE>
+    <TITLE>What A Weird Day</TITLE>
+    <GENRE>Mystery</GENRE>
+    <DIRECTOR>P.Uzzle</DIRECTOR>
+    <SCREENWRITER>Bill William</SCREENWRITER>
+    <TRT>1h 42min</TRT>
+    <RATING>5</RATING>
+  </MOVIE>
+  <MOVIE>
+    <TITLE>Not Again</TITLE>
+    <GENRE>Comedy</GENRE>
+    <DIRECTOR>Morty Milkes</DIRECTOR>
+    <SCREENWRITER>Bill William</SCREENWRITER>
+    <TRT>1h 30min</TRT>
+    <RATING>2</RATING>
+  </MOVIE>
+  <MOVIE>
+    <TITLE>It Was Always You</TITLE>
+    <GENRE>Drama</GENRE>
+    <DIRECTOR>Bo Beaux</DIRECTOR>
+    <SCREENWRITER>Bill William</SCREENWRITER>
+    <TRT>1h 36min</TRT>
+    <RATING>1</RATING>
+  </MOVIE>
+  <MOVIE>
+    <TITLE>It Was Always You Too</TITLE>
+    <GENRE>Drama</GENRE>
+    <DIRECTOR>Bo Beaux</DIRECTOR>
+    <SCREENWRITER>Bill William</SCREENWRITER>
+    <TRT>2h 02min</TRT>
+    <RATING>4</RATING>
+  </MOVIE>
+  <MOVIE>
+    <TITLE>Hush Shush</TITLE>
+    <GENRE>Drama</GENRE>
+    <DIRECTOR>Morty Milkes</DIRECTOR>
+    <SCREENWRITER>Bill William</SCREENWRITER>
+    <TRT>2h 22min</TRT>
+    <RATING>3</RATING>
+  </MOVIE>
+  <MOVIE>
+    <TITLE>Vexed Vectors</TITLE>
+    <GENRE>Drama</GENRE>
+    <DIRECTOR>Morty Milkes</DIRECTOR>
+    <SCREENWRITER>Bill William</SCREENWRITER>
+    <TRT>1h 50min</TRT>
+    <RATING>2</RATING>
+  </MOVIE>
+  <MOVIE>
+    <TITLE>Live Long Die Fast</TITLE>
+    <GENRE>Drama</GENRE>
+    <DIRECTOR>Bo Beaux</DIRECTOR>
+    <SCREENWRITER>Bill William</SCREENWRITER>
+    <TRT>2h 41min</TRT>
+    <RATING>2</RATING>
+  </MOVIE>
+  <MOVIE>
+    <TITLE>Helping Henry Hate Her</TITLE>
+    <GENRE>Drama</GENRE>
+    <DIRECTOR>Bo Beaux</DIRECTOR>
+    <SCREENWRITER>Bill William</SCREENWRITER>
+    <TRT>1h 14min</TRT>
+    <RATING>3</RATING>
+  </MOVIE>
+  <MOVIE>
+    <TITLE>You Shot Me</TITLE>
+    <GENRE>Drama</GENRE>
+    <DIRECTOR>Morty Milkes</DIRECTOR>
+    <SCREENWRITER>Bill William</SCREENWRITER>
+    <TRT>2h 00min</TRT>
+    <RATING>4</RATING>
+  </MOVIE>
+  <MOVIE>
+    <TITLE>You're Not My Husband!</TITLE>
+    <GENRE>Drama</GENRE>
+    <DIRECTOR>Bo Beaux</DIRECTOR>
+    <SCREENWRITER>Bill William</SCREENWRITER>
+    <TRT>1h 40min</TRT>
+    <RATING>3</RATING>
+  </MOVIE>
+</LIBRARY>

@@ -1,0 +1,75 @@
+body {
+  width: 85%;
+}
+
+#table-user-info {
+  width: 30%;
+  background-color: rgba(240, 240, 240, 0.5);
+  border: 2px solid #888;
+  padding: 3px 3px;
+  -webkit-box-shadow: 3px 3px rgba(88, 88, 88, 0.5);
+  -moz-box-shadow: 3px 3px rgba(88, 88, 88, 0.5);
+  -ms-box-shadow: 3px 3px rgba(88, 88, 88, 0.5);
+  -o-box-shadow: 3px 3px rgba(88, 88, 88, 0.5);
+  box-shadow: 3px 3px rgba(88, 88, 88, 0.5);
+}
+
+#table-cc-info {
+  width: 30%;
+  /* background-color: yellow; */
+  border: 2px solid #888;
+  padding: 3px 3px;
+  background-color: rgba(240, 240, 240, 0.5);
+  -webkit-box-shadow: 3px 3px rgba(88, 88, 88, 0.5);
+  -moz-box-shadow: 3px 3px rgba(88, 88, 88, 0.5);
+  -ms-box-shadow: 3px 3px rgba(88, 88, 88, 0.5);
+  -o-box-shadow: 3px 3px rgba(88, 88, 88, 0.5);
+  box-shadow: 3px 3px rgba(88, 88, 88, 0.5);
+}
+
+#table-cc-info th {
+  text-align: right;
+  font-size: 1em;
+}
+
+#table-cc-info tr {
+  /* background-color: purple; */
+  text-align: right;
+}
+
+#expy {
+  font-style: italic;
+  font-size: 0.9em;
+}
+
+textarea {
+  border: 2px solid #888;
+  padding: 3px 3px;
+  background-color: rgba(240, 240, 240, 0.5);
+  -webkit-box-shadow: 3px 3px rgba(88, 88, 88, 0.5);
+  -moz-box-shadow: 3px 3px rgba(88, 88, 88, 0.5);
+  -ms-box-shadow: 3px 3px rgba(88, 88, 88, 0.5);
+  -o-box-shadow: 3px 3px rgba(88, 88, 88, 0.5);
+  box-shadow: 3px 3px rgba(88, 88, 88, 0.5);
+}
+
+#submitBtn {
+  border: 2px solid #888;
+  background-color: #4eca2c;
+  color: white;
+  padding: 5px 5px;
+  width: 20%;
+  font-size: 1.1em;
+  font-weight: bold;
+  border-radius: 10px 10px;
+}
+
+#resetBtn {
+  border: 2px solid #888;
+  background-color: #de5544;
+  padding: 5px 5px;
+  width: 20%;
+  font-size: 1.1em;
+  font-weight: bold;
+  border-radius: 10px 10px;
+}
